@@ -1,6 +1,6 @@
 # HW1
-StudentID: D12944007
-StudentName: 楊德倫 (Te-Lun Yang)
+- StudentID: D12944007
+- StudentName: 楊德倫 (Te-Lun Yang)
 
 ## Packages
 ```bash=
